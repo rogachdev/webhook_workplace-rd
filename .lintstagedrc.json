@@ -1,0 +1,3 @@
+{
+  "*.ts": ["eslint 'src/**' --fix", "npm rum test:staged", "git add"]
+}
